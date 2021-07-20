@@ -1,0 +1,111 @@
+[
+    {
+        
+        "id": "the-scale",
+        "name": "The Scale",
+        "address": "373 Blair Park Rd",
+        "phonenumber": "(802)-662-4799",
+        "hours": "11:00 am - 8:00 pm",
+        "notes": [
+          "poke bowl restaurant.",
+          "pretty good food"
+        ],
+        "latlng":[44.45474495396205, -73.11217050543007]
+
+      },
+      {
+        
+        "id": "vermont-tap-house",
+        "name": "Vermont Tap House",
+        "address": "22 Merchants Row",
+        "phonenumber": "(802) 879-7060",
+        "hours": "11:00 am - 10:00 pm",
+        "notes": [
+          "has pancakes and pizza",
+          "great food"
+        ],
+        "latlng":[44.444715788653646, -73.11268848638855]
+      },
+     
+      {
+       
+        "id": "the-pour-house",
+        "name": "The Pour House",
+        "address": "1930 Williston Rd STE 5",
+        "phonenumber": "(802) 862-3653",
+        "hours": "11:00 am - 10:00 pm",
+        "notes": [
+          "breakfast/brunch resteruant",
+          "every tuesday is meatloaf day."
+        ],
+        "latlng":[44.461483614429724, -73.15002584405944]
+      },
+      {
+        
+        "id": "sakura-sushi",
+        "name": "Sakura Sushi",
+        "address": "19 Taft Corners Shopping Center, Williston, VT ",
+        "phonenumber": "(802) 288-8052",
+        "hours": "11:00 am - 8:30 pm",
+        "notes": [
+          "Sushi",
+          "No delivery"
+        ],
+        "latlng":[44.450506291555904, -73.11006404590925]
+      },
+      {
+       
+        "id": "longhorn-steakhouse",
+        "name": "LongHorn Steakhouse",
+        "address": "1405 Maple Tree Pl",
+        "phonenumber": " (802) 288-9858",
+        "hours": "11:00 am - 9:00 pm",
+        "notes": [
+          "Steakhouse",
+          "has shrimp"
+        ],
+        "latlng":[44.444064731247124, -73.112233032344]
+      },
+      {
+       
+        "id": "grazers-restaurant",
+        "name": "Grazers Restaurant",
+        "address": "192 Boxwood St, Williston",
+        "phonenumber": " (802) 857-5829",
+        "hours": "11:00 am - 10:00 pm",
+        "notes": [
+          "Pricey",
+          "good food"
+        ],
+        "latlng":[44.445925149201656, -73.10978119988157]
+      },
+      {
+        
+        "id": "99-restaurant",
+        "name": "99 Restaurants",
+        "address": "11 Taft Corners Shopping Center",
+        "phonenumber": " (802) 879-9901",
+        "hours": "11:00 am - 10:30 pm",
+        "notes": [
+          "pub",
+          "kid-friendly"
+        ],
+        "latlng":[44.45011739821648, -73.11031915940227]
+      },
+      {
+       
+        "id": "texas-roadhouse",
+        "name": "Texas Roadhouse",
+        "address": "225 Interstate Corporate Center",
+        "phonenumber": " (802) 288-1110",
+        "hours": "3:00 pm - 10:00 pm",
+        "notes": [
+          "steak house",
+          "No delivery"
+        ],
+        "latlng":[44.45002388601704, -73.11277927289534]
+      }
+          
+      
+      
+]
