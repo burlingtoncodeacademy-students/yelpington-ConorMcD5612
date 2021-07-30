@@ -1,21 +1,17 @@
 /* get rid of default padding */
-*{
+* {
   margin: 0;
   padding: 0;
 }
 
-
 /* basic header */
-header{
- 
+header {
   font-size: 10vw;
   background-color: coral;
-  
 }
 
-
 /* positoning all content in the center and making header/body content flex */
-.column-flex{
+.column-flex {
   position: absolute;
   top: 50%;
   left: 50%;
@@ -25,32 +21,29 @@ header{
   width: 70vw;
   display: flex;
   flex-direction: column;
- border: .7vw solid black;
- border-radius: 1vw;
-
+  border: 0.7vw solid black;
+  border-radius: 1vw;
 }
 
-
 /* main body content containg map with markers, nav, and rest info */
-.row-flex{
+.row-flex {
   display: flex;
   background-color: cornflowerblue;
   padding: 20px;
   gap: 1vw;
   font-size: 1vw;
-  border-top: .7vw solid black;
-  
+  border-top: 0.7vw solid black;
 }
 
 /* some space inbetween the info and map */
-.rest-list{
+.rest-list {
   display: flex;
   flex-direction: column;
   justify-content: space-between;
 }
 
 /* where main content is */
-.rest-container{
+.rest-container {
   display: flex;
   width: 35vw;
   flex-direction: column;
@@ -58,7 +51,7 @@ header{
 }
 
 /* getting rid of some default styles */
-a{
+a {
   text-decoration: none;
-  color: white
+  color: white;
 }
